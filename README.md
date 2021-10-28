@@ -1,3 +1,3 @@
 
-Implementation of **"A Secure and Efficient Wireless Charging Scheme for Electric Vehicles in Vehicular Energy Networks" (submitted to IEEE TVT).**
+The details of simulation code will be uploaded later~
 
